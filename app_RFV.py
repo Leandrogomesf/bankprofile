@@ -67,7 +67,7 @@ def main():
     st.write("# ANÁLISE RFV DE CLIENTES DE BANCO")
     st.markdown("---")
 
-    st.write("### Com esta aplicação e possível realizar um upload dos dados no formato previamente configurado para a produção de uma análise RFV. ")
+    st.write("### Com esta aplicação é possível realizar um upload dos dados no formato previamente configurado para a produção de uma análise RFV. ")
                 
     st.write("- R - Recência: tempo decorrido desde a última compra.")            
     st.write("- F - Frequência: a quantidade de vezes no decorrer do periodo avaliado em que um produto foi adiquirido.")
