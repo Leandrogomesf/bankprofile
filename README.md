@@ -10,7 +10,7 @@ Leandro Ferreira
 
 ## Descrição do projeto
 
-Com esta aplicação e possível realizar um upload dos dados no formato previamente configurado para a produção de uma análise RFV. 
+Com esta aplicação é possível realizar um upload dos dados no formato previamente configurado para a produção de uma análise RFV. 
 
 - R - Recência: tempo decorrido desde a última compra.
 
